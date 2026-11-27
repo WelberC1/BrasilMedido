@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/etl/">
+    <Project Path="etl/BrasilMedido.Etl.Tests/BrasilMedido.Etl.Tests.csproj" />
+    <Project Path="etl/BrasilMedido.Etl/BrasilMedido.Etl.csproj" />
+  </Folder>
+</Solution>

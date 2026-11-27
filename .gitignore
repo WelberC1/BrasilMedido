@@ -1,0 +1,12 @@
+bin/
+obj/
+node_modules/
+web/dist/
+*.log
+.vs/
+.vscode/
+
+# local design-tool files (kept on this machine only)
+.impeccable/
+PRODUCT.md
+DESIGN.md
