@@ -2,7 +2,7 @@ name: Atualizar dados e publicar
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   schedule:
     - cron: '0 9 5 * *' # dia 5 de cada mês, 06h de Brasília
   workflow_dispatch:

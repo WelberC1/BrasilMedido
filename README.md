@@ -137,7 +137,7 @@ npm run dev                                   # http://localhost:5173
 
 ## Publicação
 
-O workflow [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) roda a cada push na `main`, no dia
+O workflow [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) roda a cada push na `master`, no dia
 5 de cada mês e sob demanda: testa, atualiza os dados, versiona o que mudou e publica no GitHub Pages. No repositório, o GitHub Pages precisa estar com a origem em
 *Settings → Pages → Source: GitHub Actions*.
 
